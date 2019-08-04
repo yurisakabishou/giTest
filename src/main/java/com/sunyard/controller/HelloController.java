@@ -6,6 +6,8 @@ public class HelloController {
 
     private int age;
 
+    private int b;
+
     public HelloController(){
         System.out.println("HelloController.HelloController");
     }
