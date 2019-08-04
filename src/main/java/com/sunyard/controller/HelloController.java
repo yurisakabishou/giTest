@@ -8,6 +8,8 @@ public class HelloController {
 
     private String a; //test
 
+    private int b;
+
     public HelloController(){
         System.out.println("HelloController.HelloController");
     }
