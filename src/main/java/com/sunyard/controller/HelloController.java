@@ -10,6 +10,8 @@ public class HelloController {
 
     private int b;
 
+    private int c; //1.4
+
     public HelloController(){
         System.out.println("HelloController.HelloController");
     }
